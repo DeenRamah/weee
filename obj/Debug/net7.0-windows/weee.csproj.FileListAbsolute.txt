@@ -1,0 +1,17 @@
+E:\mee\weee\weee\obj\Debug\net7.0-windows\weee.csproj.AssemblyReference.cache
+E:\mee\weee\weee\obj\Debug\net7.0-windows\weee.Form1.resources
+E:\mee\weee\weee\obj\Debug\net7.0-windows\weee.csproj.GenerateResource.cache
+E:\mee\weee\weee\obj\Debug\net7.0-windows\weee.GeneratedMSBuildEditorConfig.editorconfig
+E:\mee\weee\weee\obj\Debug\net7.0-windows\weee.AssemblyInfoInputs.cache
+E:\mee\weee\weee\obj\Debug\net7.0-windows\weee.AssemblyInfo.cs
+E:\mee\weee\weee\obj\Debug\net7.0-windows\weee.csproj.CoreCompileInputs.cache
+E:\mee\weee\weee\bin\Debug\net7.0-windows\weee.exe
+E:\mee\weee\weee\bin\Debug\net7.0-windows\weee.deps.json
+E:\mee\weee\weee\bin\Debug\net7.0-windows\weee.runtimeconfig.json
+E:\mee\weee\weee\bin\Debug\net7.0-windows\weee.dll
+E:\mee\weee\weee\bin\Debug\net7.0-windows\weee.pdb
+E:\mee\weee\weee\obj\Debug\net7.0-windows\weee.dll
+E:\mee\weee\weee\obj\Debug\net7.0-windows\refint\weee.dll
+E:\mee\weee\weee\obj\Debug\net7.0-windows\weee.pdb
+E:\mee\weee\weee\obj\Debug\net7.0-windows\weee.genruntimeconfig.cache
+E:\mee\weee\weee\obj\Debug\net7.0-windows\ref\weee.dll
